@@ -2,12 +2,13 @@
 
 The repository contains code written taking MOOCs at coursera
 
-### Repositories
+## Courses
 
-**Mining Massive Datasets**
+### Mining Massive Datasets (15.11.2015)
 
-12.09.2015 - 15.11.2015
+https://www.coursera.org/course/mmds
 
-**Machine Learning**
+### Machine Learning (In progress...)
 
-In progress...
+https://www.coursera.org/learn/machine-learning
+
